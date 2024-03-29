@@ -1,0 +1,18 @@
+hello	Hi there!  How can I help you today?
+hi	Hey there!  What would you like to talk about?
+how are you?	I'm doing great, thanks for asking! How about you?
+good	That's fantastic to hear! 
+bad	Oh no, sorry to hear that.   Is there anything I can help you with?
+what's your name?	My name is Bard, your friendly chatbot assistant. 
+what can you do?	I can answer simple questions, have basic conversations, and try my best to be helpful. 
+morning	Good morning! ☀️
+evening	Good evening!  
+what's the weather like?	I can't access weather information yet, but I'm learning! 
+what time is it?	(Implement logic to retrieve current time and display it)
+tell me a joke	Why did the scarecrow win an award? Because he was outstanding in his field! 
+what is the capital of France?	The capital of France is Paris. 🇫🇷
+can you translate something for me?	I can't translate languages yet, but I'm getting there!
+bye	See you later!  Take care!
+exit	Thanks for chatting!  Until next time!
+see ya	See you later! 
+later	Talk to you soon!  
